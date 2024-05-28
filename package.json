@@ -1,0 +1,26 @@
+{
+  "name": "currency-converter",
+  "version": "1.0.0",
+  "description": "An npm package to convert currency",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahibashardeveloper/currency-converter.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Mahi Bashar Akash",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mahibashardeveloper/currency-converter/issues"
+  },
+  "homepage": "https://github.com/mahibashardeveloper/currency-converter#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
