@@ -1,5 +1,5 @@
 {
-  "name": "bale_bale_project_converter",
+  "name": "friendly_currency_converter",
   "version": "1.2.0",
   "description": "An npm package to convert currency",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mahibashardeveloper/bale_bale_project_converter.git"
+    "url": "git+https://github.com/mahibashardeveloper/friendly_currency_converter.git"
   },
   "keywords": [
     "npm"
@@ -17,9 +17,9 @@
   "author": "Mahi Bashar Akash",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mahibashardeveloper/bale_bale_project_converter/issues"
+    "url": "https://github.com/mahibashardeveloper/friendly_currency_converter/issues"
   },
-  "homepage": "https://github.com/mahibashardeveloper/bale_bale_project_converter#readme",
+  "homepage": "https://github.com/mahibashardeveloper/friendly_currency_converter#readme",
   "dependencies": {
     "@everapi/freecurrencyapi-js": "^1.0.1"
   }
