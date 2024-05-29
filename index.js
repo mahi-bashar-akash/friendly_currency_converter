@@ -10,5 +10,3 @@ export async function convertCurrency(formCurrency, toCurrency, units) {
     const multiplier = res.data[toCurrency];
     return multiplier*units
 }
-
-export default convertCurrency;
